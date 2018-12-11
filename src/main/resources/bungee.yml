@@ -1,0 +1,5 @@
+name: OneMoreSlot
+main: me.xanium.onemoreslot.bungee.OMSBungee
+version: 4.0
+author: Xanium
+description: Keeps player count 1 above current total.

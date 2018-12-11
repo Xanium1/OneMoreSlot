@@ -1,0 +1,7 @@
+name: OMSBukkit
+main: me.xanium.onemoreslot.bukkit.OMSBukkit
+version: 4.0
+load: STARTUP
+author: Xanium
+description: Keeps player count 1 above current total.
+website: https://www.spigotmc.org/resources/onemoreslot.9848/
